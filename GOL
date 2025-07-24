@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Starting Game of Life..."
+
+cd GameOfLife
+./mvnw clean compile exec:java > /dev/null 2>&1
