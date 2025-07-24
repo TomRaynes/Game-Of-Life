@@ -27,7 +27,7 @@ neighbour cells surrounding it. The rules are as follows:
 1. Clone the repo and navigate to its top level
 ```
 git clone git@github.com:TomRaynes/Game-Of-Life.git
-cd Game-of-Life
+cd Game-Of-Life
 ```
 2. Start the program
 ```
