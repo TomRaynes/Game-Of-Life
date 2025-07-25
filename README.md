@@ -16,7 +16,7 @@ and self-replication may have emerged from inorganic chemical reactions.
 </div>
 
 ## Rules
-The occupancy of any given cell in the following generation is determined by the current occupancy of the eight 
+The occupancy of any given cell in the next generation is determined by the current occupancy of the eight 
 neighbour cells surrounding it. The rules are as follows:
 
 1. A live cell with either two or three live neighbours remains alive into the next generation
